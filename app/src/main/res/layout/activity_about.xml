@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp"
+        android:layout_gravity="center">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/card_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="4dp">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="16dp">
+
+                <com.google.android.material.imageview.ShapeableImageView
+                    android:id="@+id/img_item_photo"
+                    android:layout_width="250dp"
+                    android:layout_height="250dp"
+                    android:layout_marginTop="8dp"
+                    android:contentDescription="@string/things_name"
+                    card_view:civ_border_color="#FF000000"
+                    card_view:civ_border_width="1dp"
+                    card_view:layout_constraintEnd_toEndOf="parent"
+                    card_view:layout_constraintHorizontal_bias="0.495"
+                    card_view:layout_constraintStart_toStartOf="parent"
+                    card_view:layout_constraintTop_toBottomOf="@id/tv_seller"
+                    card_view:layout_constraintVertical_bias="0.0"
+                    card_view:layout_constraintVertical_chainStyle="packed"
+                    card_view:shapeAppearanceOverlay="@style/Circular"
+                    android:src="@drawable/dayen" />
+
+                <TextView
+                    android:id="@+id/tv_seller"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Bangkit x Dicoding"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    tools:ignore="MissingConstraints"
+                    tools:layout_editor_absoluteX="12dp"
+                    tools:layout_editor_absoluteY="12dp" />
+
+                <TextView
+                    android:id="@+id/tv_item_name"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_toEndOf="@id/img_item_photo"
+                    android:maxLines="2"
+                    android:textSize="20sp"
+                    android:gravity="center"
+                    card_view:layout_constraintEnd_toEndOf="parent"
+                    card_view:layout_constraintHorizontal_bias="0.0"
+                    card_view:layout_constraintStart_toStartOf="parent"
+                    card_view:layout_constraintTop_toBottomOf="@+id/img_item_photo"
+                    android:text="@string/myName"/>
+
+                <TextView
+                    android:id="@+id/tv_price"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/Email"
+                    android:textSize="20sp"
+                    android:gravity="center"
+                    card_view:layout_constraintEnd_toEndOf="parent"
+                    card_view:layout_constraintHorizontal_bias="0"
+                    card_view:layout_constraintStart_toStartOf="@+id/tv_item_name"
+                    card_view:layout_constraintTop_toBottomOf="@+id/tv_item_name"
+                    card_view:layout_constraintVertical_bias="0.0"
+                    card_view:layout_constraintVertical_chainStyle="packed" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+</ScrollView>

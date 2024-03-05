@@ -1,0 +1,264 @@
+<resources>
+    <string name="app_name">Tokopadian</string>
+    <string name="things_name">Nama Barang</string>
+    <string name="seller_name">Nama Penjual</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="price">Rp150.000</string>
+    <string name="myName">Dian Saputra</string>
+    <string name="Email">dayensptr@gmail.com</string>
+    <string-array name="data_seller">
+        <item>Fantech Official Store</item>
+        <item>Logitech Official Store</item>
+        <item>Sage Official Store</item>
+        <item>MOFii Official Store</item>
+        <item>Razer Official Store</item>
+        <item>Fantech Official Store</item>
+        <item>Narwhal</item>
+        <item>Gamen Official Store</item>
+        <item>Koorui Official Flagship Store</item>
+        <item>Urban Republic Official Store</item>
+    </string-array>
+    <string-array name="data_name">
+        <item>Fantech THOR II X16 Mouse Gaming PIXART 3519</item>
+        <item>Logitech G PRO X 2 LIGHTSPEED Headset Gaming Wireless Bluetooth -White</item>
+        <item>Gaming Chair bangku game Kursi 180 derajat SG-818</item>
+        <item>MOFii Gaming Mouse Wireless 2.4g RGB Light Rechargeable 1600 DPI P6</item>
+        <item>Razer DeathAdder V2 X HyperSpeed - Wireless Gaming Mouse</item>
+        <item>Fantech REVOLVER II WGP12 Wireless Gaming Controller</item>
+        <item>Gaming Mouse Pad XL Desk Mat 800 x 400 mm Anime Olevo RO 63</item>
+        <item>GAMEN Titan V All-New Titan Series Keyboard Gaming Mechanical Blue Sw</item>
+        <item>KOORUI 24E3 24 inch FHD GAMING MONITOR 165Hz 1ms IPS</item>
+        <item>Sony PlayStation 5 Slim Digital</item>
+    </string-array>
+    <string-array name="data_rating">
+        <item>&#9733;&#9733;&#9733;&#9733;&#9733;</item>
+        <item>&#9733;&#9733;&#9733;&#9733;&#9733;</item>
+        <item>&#9733;&#9733;&#9733;&#9733;&#9733;</item>
+        <item>&#9733;&#9733;&#9733;&#9733;&#9733;</item>
+        <item>&#9733;&#9733;&#9733;&#9733;&#9733;</item>
+        <item>&#9733;&#9733;&#9733;&#9733;&#9733;</item>
+        <item>&#9733;&#9733;&#9733;&#9733;&#9734;</item>
+        <item>&#9733;&#9733;&#9733;&#9733;&#9734;</item>
+        <item>&#9733;&#9733;&#9733;&#9733;&#9734;</item>
+        <item>&#9733;&#9733;&#9733;&#9733;&#9733;</item>
+    </string-array>
+    <string-array name="data_price">
+        <item>Rp120.000</item>
+        <item>Rp3.129.000</item>
+        <item>Rp1.688.000</item>
+        <item>Rp129.900</item>
+        <item>Rp649.000</item>
+        <item>Rp275.000</item>
+        <item>Rp24.900</item>
+        <item>Rp229.000</item>
+        <item>Rp1.680.000</item>
+        <item>Rp8.199.000</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>
+            Spesifikasi
+            Sensor : Gaming Optical Sensor
+            DPI : On-the-fly Adjustable DPI (400-12800)
+            Acceleration : 400IPS/50g
+            Click Lifetime : Huano 10 Million Clicks
+            Roller : Silicon Rubber Roller
+            Cable: 1.8m Nylon Braided Cable
+            Size : 129mm x 68mm x 41mm
+            Weight : 141gr
+        </item>
+        <item>
+            SPESIFIKASI TEKNIS
+            Headphone:
+            Driver: Graphene 50 mm
+            Magnet: Neodymium
+            Respons frekuensi: 20 Hz – 20 KHz
+            Impedansi: 38 ohm
+            Sensitivitas: 87,8 dB SPL @ 1 mW &amp; 1 cm
+            Bahan:
+            Fork: Aluminum
+            Headband: Baja
+            Ear dan head pad: Memory Foam Leatherette
+            Ear pad tambahan: Memory Foam Cloth
+            Mikrofon:
+            Pola Pickup Mikrofon: Cardioid (Unidireksional)
+            Jenis: Electret Condenser
+            Ukuran: 6 mm
+            Respons frekuensi: (100 Hz - 10 KHz)
+            Wireless:
+            Daya Tahan Baterai (Dapat Diisi Ulang): maksimum 50 jam
+            Jangkauan Wireless: maksimum 30 m
+            Jenis Koneksi: 2.4 GHz LIGHTSPEED, Bluetooth
+            Spesifikasi Fisik
+            Lebar: 176 mm (6,92 inci)
+            Tebal: 95 mm (3,74 inci)
+            Tinggi: 189 mm (7,44 inci)
+            Berat: 345 g (12,16 oz)
+            Panjang Kabel Pengisian Daya: 1,8 m (6.56 kaki)
+            ISI KEMASAN
+            PRO X 2 Lightspeed gaming headset
+            Memory foam leatherette ear pad
+            Memory foam cloth ear pad ekstra
+            Adaptor USB-A LIGHTSPEED Wireless dengan port 3,5 mm
+            Mikrofon yang dapat dilepaskan dengan foam windscreen
+            Kabel USB-A ke USB-C
+            Kabel 3,5 mm
+            tas penyimpanan yang lembut
+            Dokumentasi pengguna
+            NOMOR SUKU CADANG
+            Black : 981-001264
+            White : 981-001270
+        </item>
+        <item>
+            SAGE SPORT KURSI GAMING MODEL SG-818
+            ** PRODUK BERGARANSI 1 BULAN **
+            (KHUSUS NAHAN BEBAN PUNYA GARANSI 1TAHUN)
+            1. Penyesuaian tinggi
+            Panel kontrol hidraulik untuk mengontrol ketinggian - rendah
+            Kursi terbuat dari bahan yang kuat
+            Tahan lama, umur pemakaian lebih lama
+            2. Disesuaikan hingga 180 derajat
+            Sandaran dapat direbahkan.
+            Hingga 180 derajat bisa
+            Mendukung semua aplikasi
+            Lembut, nyaman
+            3. Sandaran tangan
+            Dapat mengatur ketinggian
+            Membuatnya kompatibel
+            Berbagai bentuk
+            4. Bantal leher
+            Sandaran dirancang agar pas.
+            Dengan lengkungan leher semakin tebal
+            Membuat Anda merasa lebih nyaman dan aman
+            5. Kursi yang nyaman dan lebar
+            Ukuran kursi 50 cm lebih lebar.
+            Nyaman untuk duduk, mudah untuk bergerak, mudah untuk duduk
+            6. Roda bisa diputar
+            Roda mudah bergerak.
+            7. Dukungan punggung bantal
+            Membantu mengurangi sakit punggung saat duduk untuk waktu yang lama
+        </item>
+        <item>
+            Produk ini merupakan sebuah mouse nirkabel USB dengan berbagai fitur yang dapat memudahkan penggunaannya. Dibuat dengan menggunakan bahan perumahan ABS, mouse ini memiliki ukuran sebesar 1147240mm dengan bobot sekitar 90g. Terdapat tiga lampu indikator yang memberikan informasi visual kepada pengguna.
+            Mouse ini dilengkapi dengan berbagai tombol yang meliputi tombol kiri, tombol kanan, roda gulir, DPI, tombol atas, dan tombol bawah untuk memberikan fleksibilitas penggunaan yang lebih baik. Sensor gambar yang digunakan adalah KA8, sementara MCU-nya adalah model NA, dan gerak mikro yang digunakan adalah Huanyu 300W.
+            Kehidupan beringsut dan encoder mouse ini mencapai 3 juta kali, dengan kekuatan operasi kunci sekitar 60-70G. Tingkat pengembalian mouse ini adalah 125HZ, dengan resolusi default sebesar 800 DPI yang dapat diubah menjadi 1200 atau 1600 DPI. Percepatannya mencapai 8g, dengan frekuensi pemindaian sebesar 3000 bingkai/detik dan kecepatan gerakan hingga 30 inci/detik.
+            Mouse ini kompatibel dengan berbagai sistem operasi termasuk Windows 7/8/10/11, macOS 10.5 atau yang lebih baru, serta Linux Kernel 2.6+. Menggunakan protokol 2.4G pribadi untuk konektivitas nirkabelnya dengan jarak efektif hingga 10M. Konsumsi daya mouse ini bervariasi tergantung pada mode penggunaannya, dengan dukungan pengisian ulang baterai Lithium Polymer berkapasitas 400mAh. Waktu pengisian baterainya adalah sekitar 5,5-6,5 jam dengan arus pengisian sekitar 80mAh.
+        </item>
+        <item>
+            Razer DeathAdder V2x Hyperspeed
+            Award-winning Ergonomic Design
+            Ultra-fast Razer™ HyperSpeed Wireless
+            235 Hours of Battery Life (2.4GHz)
+            Tech Specs:
+            Form Factor: Ergonomic right-handed design
+            Connectivity: Dual-mode wireless (2.4G and BLE)
+            Battery Life: Up to 235 hours (2.4GHz), 615 hours (BLE) with included AA battery. AA/AAA Hybrid battery slot (only one type at a time)
+            RGB Lighting: None
+            Sensor: Optical
+            Max Sensitivity (DPI): 14000
+            Max Speed (IPS): 300
+            Max Acceleration (G): 35
+            Programmable Buttons: 7
+            Switch Type: Razer™ Mechanical Gen-2 Mouse Switches
+            Switch Lifecycle: 60 Million Clicks
+            On-board Memory Profiles: On-board DPI and keymap storage
+            Mouse Feet: Undyed 100% PTFE mouse-feet
+            Cable: None
+            Tilt Scroll Wheel: Gaming-grade tactile scroll wheel
+            Sizes: Length: 127 mm, Grip width: 61.7 mm, Height: 42.7 mm
+            Weight: 86 - 103 g / 3.03 – 3.63 oz
+            Dock Compatibility: None
+        </item>
+        <item>
+            TECHNICAL SPECIFICATION
+            Button : 17 pcs
+            Connectivity : 2.4GHz / Wired
+            Vibration : Yes
+            Battery : 600mAh
+            Wireless range : 7m-8m
+            Charging Time : Sekitar 3 jam
+            Standby Time : Sekitar 10 jam
+            Weight : 182gr
+        </item>
+        <item>
+            Gaming Mouse Pad ini dibuat dari material kain yang berkualitas dan pada setiap sudut mouse pad terdapat jahitan tambahan sehingga ketahaan mouse pad ini sangat tangguh. Memiliki anti slip back yang berfungsi agar mousepad tidak mudah bergerak saat Anda menggunakan mouse.
+            Fitur:
+            - Dirancang Untuk Gaming
+            Mouse pad ini dirancang khusus untuk kebutuhan gaming yang membutuhkan tingkat keakuratan mouse yang tinggi dan cocok untuk game-game yang memerlukan tingkat kecepatan yang tinggi.
+            - Mouse pad Lembut
+            Material mouse pad ini terbuat dari kain yang halus dan silikon untuk memastikan fleksibilitas yang maksimum serta kenyamanan pada saat Anda bermain game atau bekerja.
+            - Mengoptimalkan Sensitivity Mouse Anda
+            Mouse pad ini cocok bagi segala jenis kebutuhan sensivitas dan dapat mengontrol mouse Anda dengan baik dan presisi pada saat bermain.
+            - Anti Licin
+            Bagian bawah mouse pad terbuat dari material karet yang anti slip. Mouse pad akan tetap stabil tertempel di meja meskipun mouse Anda bergerak dengan cepat.
+            - Jahitan di Tepi Sisi
+            Semua bagian ujung mouse pad memiliki tambahan agar mouse pad tidak mudah rusak atau rontok pada bagian samping yang sering sekali terjadi pada mouse pad umumnya.
+        </item>
+        <item>
+            📋Spesifikasi:
+            *Model : Titan V
+            *Number of keys : 63
+            *Switch : Blue (pluggable)
+            *Input : 5V 250ma
+            *Switch Life : 50 Million Clicks
+            *Stroke Travel : 2.2 ± 0.6 mm
+            *Trigger Pressure : 60 ± 20 GF
+            *Size : 29.6 cm x 10.6 cm x 3.4 cm
+        </item>
+        <item>
+            24E3
+            Screen size :23.8 inches
+            Resolution :1920 x 1080 FHD
+            screen type: IPS
+            Refresh rate: 165 Hz
+            Gross weight（KG）:4.49
+            Net weight (KG): 3.06
+            Interface:
+            HDMI *2----1080P+144HZ
+            DP *1----1080P+165HZ
+            Sound interface*1
+            SRGB: 99%
+            Adobe RGB: NA
+            NTSC: 72%
+            Static contrast : 1000：1
+            Color contrast : 20000000：1
+            Brightness（CD/M2）: 250
+            Maximum: 16.7M
+            Response time: 1ms MPRT
+            Gaming mode:OD/ FreeSync/G-sync/Star sight/Timer
+        </item>
+        <item>
+            For use with
+            Vertical Stand
+            DualSense® wireless controller
+            DualSense® charging station
+            PULSE 3D™ wireless headset
+            Media Remote
+            HD Camera
+
+            In The Box:
+            PlayStation®5 Digital Edition
+            Wireless controller
+            1TB SSD
+            2 Horizontal Stand Feet
+            HDMI® cable
+            AC power cord
+            USB cable
+            printed materials
+            ASTRO’s PLAYROOM (Pre-installed game)
+        </item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://fantech.id/wp-content/uploads/2023/06/Mouse-Gaming-Fantech-X16.jpg.webp</item>
+        <item>https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/22/e05b6965-8bf5-4929-a609-402a473980ca.jpg</item>
+        <item>https://images.tokopedia.net/img/cache/900/VqbcmM/2021/1/8/371295e5-82ee-4b69-a633-e3848340fd2d.jpg</item>
+        <item>https://images.tokopedia.net/img/cache/900/VqbcmM/2023/6/21/7556acf8-6a51-4059-b84e-48f560b92a3e.png</item>
+        <item>https://images.tokopedia.net/img/cache/900/VqbcmM/2021/10/27/fcd1e6be-c6b6-4ed2-8d0c-2e0d2e3c533e.jpg</item>
+        <item>https://down-id.img.susercontent.com/file/sg-11134201-23010-zlcw4znngdmv53</item>
+        <item>https://images.tokopedia.net/img/cache/900/VqbcmM/2022/4/11/252eaeaf-b5c0-406e-a48d-86cc82fc3c4e.jpg</item>
+        <item>https://images.tokopedia.net/img/cache/900/VqbcmM/2023/12/14/7741183b-9649-4a8f-9a20-3d1d840fab22.jpg</item>
+        <item>https://images.tokopedia.net/img/cache/900/VqbcmM/2023/7/10/07fd5def-11f8-4e35-8bfc-89b95e8bc12b.png</item>
+        <item>https://images.tokopedia.net/img/cache/900/VqbcmM/2024/2/23/d2e1cc38-418d-4551-8d28-c2aaaa587d2c.jpg</item>
+    </string-array>
+</resources>
